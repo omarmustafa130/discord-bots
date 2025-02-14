@@ -16,5 +16,5 @@ A bot to send you random memes from reddit
 
 ### How to use:
 1. Install: open this URL: https://discord.com/oauth2/authorize?client_id=1339695379574161475&permissions=0&integration_type=0&scope=bot
-2. Type /meme
+2. Type $$meme
 3. Enjoy :) 
