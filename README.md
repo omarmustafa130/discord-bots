@@ -1,5 +1,6 @@
 # discord-bots
 This repo contains several discord bots coded with python
+Note: these bots need to be running - they are offline at the moment
 
 ## 1. EncourageBot
 A bot to send you random motivational quotes from Zen Quotes
