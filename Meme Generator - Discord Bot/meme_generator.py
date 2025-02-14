@@ -34,7 +34,7 @@ async def on_message(message):
     msg=message.content
     if client.user == message.author:
         return
-    if msg.lower().startswith('/meme'):
+    if msg.lower().startswith('$meme'):
         meme, subreddit = get_meme()
         embed = discord.Embed(title='Meme', description=f'From r/{subreddit}', color=discord.Color.blue())
         embed.set_image(url=meme)
